@@ -21,5 +21,5 @@
   - delete.php
 
 ## To Do:
-[] Add encryption for password
-[] Add CSS for beautiful appeareance
+- [ ] Add encryption for password
+- [ ] Add CSS for beautiful appeareance
