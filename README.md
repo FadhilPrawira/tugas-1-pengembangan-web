@@ -1,6 +1,6 @@
 # Tugas 1 Pengembangan Web
 
-Task:
+## Task:
 1. Create a MySQL table named "user" that contain this column:
 - id
 - username
@@ -19,3 +19,7 @@ Task:
   - edit.php
 - Delete
   - delete.php
+
+## To Do:
+[] Add encryption for password
+[] Add CSS for beautiful appeareance
