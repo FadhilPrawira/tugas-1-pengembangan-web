@@ -7,6 +7,10 @@
 - password
 - nama
 
+Or do this
+- Create new database
+- Import SQL files ```tugas_pengweb.sql``` by PHPMyAdmin or MySQL through command line
+
 2. Create PHP files to do CRUD (Create, Read, Update, Delete):
 - Create
   - add.php
